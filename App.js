@@ -24,7 +24,7 @@ export default function App() {
     </SafeAreaView>
   );
 }
-
+////shahd
 const styles = StyleSheet.create({
   container: {
     flex: 1,
